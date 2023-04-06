@@ -6,6 +6,7 @@ public class SampleClass {
 		System.out.print("This is a sample app");
 		System.out.print("This is a sample app1 in develop branch");
 		System.out.print("This is a sample app1 in develop branch to stash");
+		System.out.print(false);
 	}
 
 }
